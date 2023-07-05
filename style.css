@@ -1,0 +1,13 @@
+.blog3{
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 500px;
+    /* box-shadow: 10px 10px 20px gray;*/
+    box-shadow:20px 10px 30px rgb(122, 114, 114);
+    padding: 10px; 
+    margin: auto;
+    margin-top: 20px;
+    border-left: 5px dotted rgb(240, 233, 233);
+    background-color: black;
+    color: rgb(240, 232, 232);
+   }
